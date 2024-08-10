@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|c:\\users\\nhlanhla\\source\\repos\\-cmpg-323-project-2-\\42019222_webapi\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|solutionrelative:controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|c:\\users\\nhlanhla\\source\\repos\\-cmpg-323-project-2-\\42019222_webapi\\models\\_42019222dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|solutionrelative:models\\_42019222dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|c:\\users\\nhlanhla\\source\\repos\\-cmpg-323-project-2-\\42019222_webapi\\models\\jobtelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|solutionrelative:models\\jobtelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|c:\\users\\nhlanhla\\source\\repos\\-cmpg-323-project-2-\\42019222_webapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|c:\\users\\nhlanhla\\source\\repos\\-cmpg-323-project-2-\\42019222_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|c:\\users\\nhlanhla\\source\\repos\\-cmpg-323-project-2-\\42019222_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|c:\\users\\nhlanhla\\source\\repos\\-cmpg-323-project-2-\\42019222_webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD235E60-0D29-4DCC-AD97-E73897E36F8C}|42019222_WebAPI.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Controllers\\ProjectsController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAuwKwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T19:00:16.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobTelemetry.cs",
+              "DocumentMoniker": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\Models\\JobTelemetry.cs",
+              "RelativeDocumentMoniker": "Models\\JobTelemetry.cs",
+              "ToolTip": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\Models\\JobTelemetry.cs",
+              "RelativeToolTip": "Models\\JobTelemetry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:53:33.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_42019222dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\Models\\_42019222dbContext.cs",
+              "RelativeDocumentMoniker": "Models\\_42019222dbContext.cs",
+              "ToolTip": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\Models\\_42019222dbContext.cs",
+              "RelativeToolTip": "Models\\_42019222dbContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwIwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:32:53.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:48:16.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T19:56:15.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:41:29.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Nhlanhla\\source\\repos\\-CMPG-323-Project-2-\\42019222_WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T10:54:23.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
