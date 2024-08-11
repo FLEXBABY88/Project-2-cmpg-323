@@ -1,0 +1,47 @@
+# Build Folders / Files
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# Mac OS files
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+
+# JWT Secret and Sensitive Configurations (if any)
+appsettings.json
+appsettings.Development.json
+appsettings.Staging.json
+appsettings.Production.json
+
+# Package Folders
+**/node_modules/
+**/bower_components/
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# VS Code directories
+.vscode/
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Azure Publish Settings
+PublishScripts/
