@@ -23,6 +23,7 @@ public partial class _42019222dbContext : DbContext
 
     public virtual DbSet<Project> Projects { get; set; }
 
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
         => optionsBuilder.UseSqlServer("Server=tcp:42019222-cmpg323.database.windows.net,1433;Initial Catalog=42019222Db;Persist Security Info=False;User ID=admin_42019222;Password=Flex_2884;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
@@ -106,7 +107,9 @@ public partial class _42019222dbContext : DbContext
                 .HasColumnName("ProcessConfigURL");
             entity.Property(e => e.ProcessName).IsUnicode(false);
             entity.Property(e => e.ProcessType).IsUnicode(false);
+
             entity.Property(e => e.ProjectId).HasColumnName("ProjectID");
+            entity.Property(e => e.ProjectId).IsRequired(false);
             entity.Property(e => e.ReportUrl)
                 .IsUnicode(false)
                 .HasColumnName("ReportURL");
