@@ -11,12 +11,12 @@ Comprehensive CRUD Operations: Seamlessly create, read, update, and delete job t
 Project Management: Efficiently manage your project data, including related job telemetries, all in one place.
 Savings Calculation: Automatically calculate time and cost savings based on the telemetry data, giving you valuable insights.
 
-# API Usage
+##API Usage
 Authentication and API Access:
 To get started with NWUTechTrends, simply register an account on the platform. After registration, log in with your credentials at the login endpoint. Once authenticated, you'll receive a token, which grants you secure access to the API’s features.
 
 
-# Requirements
+##Requirements
 .NET 8.0 SDK or later
 SQL Server (Azure SQL or Local SQL Server)
 Entity Framework Core
@@ -35,13 +35,13 @@ Authentication
 
 This project uses JWT (JSON Web Token) for authentication. Below are the key aspects:
 
-    JWT Setup: Configured in Program.cs with essential parameters for token validation.
-    Bearer Authentication: All endpoints are secured using the Bearer scheme.
-    Swagger Integration: Easily test JWT tokens via Swagger UI by inputting the token in the "Authorize" button.
+  JWT Setup: Configured in Program.cs with essential parameters for token validation.
+  Bearer Authentication: All endpoints are secured using the Bearer scheme.
+  Swagger Integration: Easily test JWT tokens via Swagger UI by inputting the token in the "Authorize" button.
 
 NWUTechTrends is your reliable solution for efficient and secure job telemetry management. Dive in and experience the future of project management with us!
 
-    </br>
+    
 
 ## HTTP Methods 
 The API supports the following HTTP methods: </br>
