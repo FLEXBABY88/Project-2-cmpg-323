@@ -1,5 +1,6 @@
 # CMPG323 Project 2 42019222
 
+![image](https://github.com/FLEXBABY88/Project-2-cmpg-323/blob/main/API_LOGO.jpg)
 NWUTechTrends is a web API developed using ASP.NET Core, designed to track and manage job telemetry data for various projects. The project leverages modern software development practices, including JWT authentication, to ensure secure access to the API endpoints.
 
 
