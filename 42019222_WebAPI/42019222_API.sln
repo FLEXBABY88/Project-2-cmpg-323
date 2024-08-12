@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "42019222_API", "42019222_API.csproj", "{37DBF571-7452-42B8-83BA-F117FEE14F98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1666EA7F-62F0-46DC-B9DB-EABAAED26A6C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\CMPG323_Project_2-33705119-main\CMPG323_Project_2-33705119-main\Authentication\ApplicationDbContext.cs = ..\..\..\..\Downloads\CMPG323_Project_2-33705119-main\CMPG323_Project_2-33705119-main\Authentication\ApplicationDbContext.cs
+		..\..\..\..\Downloads\CMPG323_Project_2-33705119-main\CMPG323_Project_2-33705119-main\Models\EcoPowerSolutionsContext.cs = ..\..\..\..\Downloads\CMPG323_Project_2-33705119-main\CMPG323_Project_2-33705119-main\Models\EcoPowerSolutionsContext.cs
+		StartUp.cs = StartUp.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37DBF571-7452-42B8-83BA-F117FEE14F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DBF571-7452-42B8-83BA-F117FEE14F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DBF571-7452-42B8-83BA-F117FEE14F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DBF571-7452-42B8-83BA-F117FEE14F98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7EB56FD-B539-4415-BDD9-A5F73F4EB34C}
+	EndGlobalSection
+EndGlobal
