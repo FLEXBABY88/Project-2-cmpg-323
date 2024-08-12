@@ -66,3 +66,5 @@ Manage telemetry data, including creating, updating, retrieving, and deleting te
 |```GET /api/telemetry/savings/client```           | Get savings data filtered by client. Requires clientId, startDate, and endDate as query parameters.                  |
 
 </br>
+#Link to API
+https://42019222api20240812160846.azurewebsites.net/
