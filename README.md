@@ -5,25 +5,25 @@
 NWUTechTrends is a web API developed using ASP.NET Core, designed to track and manage job telemetry data for various projects. The project leverages modern software development practices, including JWT authentication, to ensure secure access to the API endpoints.
 
 
-##Key Features
+## Key Features
 JWT Authentication: Robust security through JSON Web Tokens, ensuring that only authorized users can access the API.
 Comprehensive CRUD Operations: Seamlessly create, read, update, and delete job telemetry data, all through our intuitive API endpoints.
 Project Management: Efficiently manage your project data, including related job telemetries, all in one place.
 Savings Calculation: Automatically calculate time and cost savings based on the telemetry data, giving you valuable insights.
 
-##API Usage
+## API Usage
 Authentication and API Access:
 To get started with NWUTechTrends, simply register an account on the platform. After registration, log in with your credentials at the login endpoint. Once authenticated, you'll receive a token, which grants you secure access to the API’s features.
 
 
-##Requirements
+## Requirements
 .NET 8.0 SDK or later
 SQL Server (Azure SQL or Local SQL Server)
 Entity Framework Core
 Visual Studio 2022 or later (Optional, but recommended)
   
   
-##Installation
+## Installation
   
 1.Clone the Repository
 2.Set Up the Database
@@ -31,7 +31,7 @@ Visual Studio 2022 or later (Optional, but recommended)
 4.Access the Swagger UI
 Authentication
 
-##Authentication
+## Authentication
 
 This project uses JWT (JSON Web Token) for authentication. Below are the key aspects:
 
